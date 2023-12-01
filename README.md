@@ -31,6 +31,8 @@ nhập thông tin sản phẩm mới và ấn nút insert để thêm hoặc ấ
 chọn vào dòng Delete để xóa sản phẩm
 ![image](https://github.com/HuyGlaucus/www_lab2/assets/116423850/429caace-83dc-441f-a89c-f6830a010b48)
 
+# www_lab5 https://github.com/HuyGlaucus/www_week5/tree/master
+
 
 
 
